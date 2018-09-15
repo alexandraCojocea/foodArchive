@@ -7,3 +7,5 @@ Users can create an account to have access to other functions, but anyone can se
 The platform also has an admin pannel where users, comments and recipies can be createdm edited or deleted.
 
 Built With PHP, MySQL and standard HTML5 & CSS
+
+Created in October 2017
