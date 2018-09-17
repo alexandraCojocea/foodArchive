@@ -8,4 +8,6 @@ The platform also has an admin pannel where users, comments and recipies can be 
 
 Built With PHP, MySQL and standard HTML5 & CSS
 
+Check out the FoodPlatform.mp4 for a short demonstration of the website.
+
 Created in October 2017
